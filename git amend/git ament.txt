@@ -1,0 +1,2 @@
+git amend is done
+git amend is updated
